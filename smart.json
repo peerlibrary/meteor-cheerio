@@ -1,8 +1,8 @@
 {
   "name": "cheeriowrap",
   "description": "Simple wrapper for the Cheerio npm module",
-  "homepage": "https://github.com/Chillmatica/meteor-cheeriowrap",
+  "homepage": "https://github.com/chillmatica/meteor-cheeriowrap",
   "author": "Rob Whitfield",
-  "version": "0.1.0",
-  "git": "https://github.com/Chillmatica/meteor-cheeriowrap.git"
+  "version": "0.2.0",
+  "git": "https://github.com/chillmatica/meteor-cheeriowrap.git"
 }
