@@ -2,7 +2,7 @@ Package.describe({
   summary: "Simple Cheerio NPM wrapper"
 });
 
-Npm.depends({"cheerio": "0.12.3"});
+Npm.depends({"cheerio": "0.17.0"});
 
 Package.on_use(function (api) {
 
