@@ -1,8 +1,0 @@
-{
-  "name": "cheerio",
-  "description": "Simple wrapper for the Cheerio npm module",
-  "homepage": "https://github.com/andreioprisan/meteor-cheerio",
-  "author": "Andrei Oprisan",
-  "version": "0.17.0-1",
-  "git": "https://github.com/andreioprisan/meteor-cheerio.git"
-}
